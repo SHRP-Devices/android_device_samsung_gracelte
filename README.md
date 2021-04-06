@@ -20,7 +20,7 @@ Add to `.repo/local_manifests/gracelte.xml`:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="SHRP-Devices/android_device_samsung_gracelte" path="device/samsung/gracelte" remote="github" revision="shrp" />
+  <project name="SHRP-Devices/device_samsung_gracelte" path="device/samsung/gracelte" remote="github" revision="shrp" />
 </manifest>
 ```
 
